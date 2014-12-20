@@ -1,5 +1,6 @@
 # coding: utf-8
 # 加入上面一句才能使用中文注释
+#test
 from pyglet.gl import * # OpenGL,GLU接口
 from pyglet.window import key # 键盘常量，事件
 from ctypes import c_float # 导入c类型的float
